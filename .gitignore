@@ -1,0 +1,15 @@
+# Secrets / donnees locales -- ne JAMAIS publier
+certs/
+state.json
+antipub.log
+debug_req.bin
+debug_resp.bin
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editeurs
+.vscode/
+.idea/
